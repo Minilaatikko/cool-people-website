@@ -1,7 +1,7 @@
 # Just a fun little website, pick a name, any name!
 https://minilaatikko.github.io/cool-people-website/
 
-## Available Names
+## Available Names {CASE InSensitivE!}
 
 - Coach Frank
 - Epstein
