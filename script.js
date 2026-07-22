@@ -26,6 +26,7 @@ const responses = {
     "pink guy": "STFU!",
     "christopher nolan": nolan,
     "nolan": nolan,
+    "sparky": "The best dog ever!",
     "akinator": "How does he know EVERYTHING!?",
     "martin luther king": mlk,
     "mlk": mlk,
