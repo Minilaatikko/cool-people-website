@@ -87,6 +87,7 @@ const responses = {
     "bibi": bibi,
     "benjamin mileikowsky": bibi,
     "rick ross": "#FRAUD ALERT!!!",
+    "lil pump": "GUCCI GUCCI GUCCI GOO... gang! ^-^",
     "great teacher onizuka": onizuka
 };
 
