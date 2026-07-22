@@ -22,6 +22,7 @@ const responses = {
     "solid snake": snake,
     "snake": snake,
     "lil wayne": "Real G's move in silence like lasagne!",
+    "drake": "ICE MAN... MORE LIKE NONCE MAN!",
     "filthy frank": "WELCOME TO THE RICE FIELDS!",
     "pink guy": "STFU!",
     "christopher nolan": nolan,
