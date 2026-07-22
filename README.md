@@ -1,5 +1,5 @@
 # Just a fun little website, pick a name, any name!
-https://github.com/Minilaatikko/cool-people-website
+https://minilaatikko.github.io/cool-people-website/
 
 ## Available Names
 
