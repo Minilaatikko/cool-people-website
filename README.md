@@ -1,6 +1,6 @@
-## Just a fun little website idea to practice coding!
+# Just a fun little website idea to practice coding!
 
-# Available Names
+## Available Names
 
 - Coach Frank
 - Epstein
