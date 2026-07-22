@@ -1,57 +1,57 @@
-Just a fun little website idea to practice coding!
+## Just a fun little website idea to practice coding!
 
-List of current inputs:
-coach frank
-epstein
-jeffrey epstein
-lizard king
-solid snake
-snake
-lil wayne
-drake
-filthy frank
-pink guy
-christopher nolan
-nolan
-akinator
-martin luther king
-mlk
-karl marx
-marx
-tobuscus
-pewdiepie
-pewds
-jacksfilms
-jacks films
-onizuka
-great teacher onizuka
-gto
-kung fu panda
-po
-poe
-tai lung
-trump
-donald trump
-teto
-kasane teto
-miku
-hatsune miku
-osama bin laden
-bin laden
-kirito
-tetsuya
-neko
-reece
-boris johnson
-putin
-vladimir putin
-soulja boy
-dj khaled
-steve Jobs
-denzel
-denzel curry
-denzel washington
-abraham
-netanyahu
-bibi
-benjamin mileikowsky
+# Available Names
+
+- Coach Frank
+- Epstein
+- Jeffrey Epstein
+- Lizard King
+- Solid Snake
+- Snake
+- Lil Wayne
+- Drake
+- Filthy Frank
+- Pink Guy
+- Christopher Nolan
+- Nolan
+- Akinator
+- Martin Luther King
+- MLK
+- Karl Marx
+- Marx
+- Tobuscus
+- PewDiePie
+- Pewds
+- Jacksfilms
+- Jacks Films
+- Onizuka
+- GTO
+- Great Teacher Onizuka
+- Kung Fu Panda
+- Po
+- Poe
+- Tai Lung
+- Trump
+- Donald Trump
+- Teto
+- Kasane Teto
+- Miku
+- Hatsune Miku
+- Osama bin Laden
+- Bin Laden
+- Kirito
+- Tetsuya
+- Neko
+- Boris Johnson
+- Putin
+- Vladimir Putin
+- Soulja Boy
+- DJ Khaled
+- Steve Jobs
+- Denzel
+- Denzel Curry
+- Denzel Washington
+- Abraham
+- Netanyahu
+- Bibi
+- Benjamin Mileikowsky
