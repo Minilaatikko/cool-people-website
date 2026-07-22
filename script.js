@@ -86,6 +86,7 @@ const responses = {
     "netanyahu": bibi,
     "bibi": bibi,
     "benjamin mileikowsky": bibi,
+    "rick ross": "#FRAUD ALERT!!!",
     "great teacher onizuka": onizuka
 };
 
