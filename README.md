@@ -1,4 +1,5 @@
 # Just a fun little website idea to practice coding!
+https://github.com/Minilaatikko/cool-people-website
 
 ## Available Names
 
