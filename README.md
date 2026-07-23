@@ -35,3 +35,5 @@ https://minilaatikko.github.io/cool-people-website/
 - Denzel Washington
 - Abraham
 - Benjamin Mileikowsky
+- Jerma985
+- Tony Hawk
